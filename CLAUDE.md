@@ -4,12 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a minimal test repository for Claude Code with basic project structure.
+Test repository for experimenting with Claude Code functionality and workflows. This serves as a playground for testing various Claude Code features.
+
+## Repository Structure
+
+- `README.md` - Project documentation and overview
+- `CLAUDE.md` - This guidance file for Claude Code instances
 
 ## Development Commands
 
-Currently no specific build, lint, or test commands are configured. Commands will be added as the project develops.
-
-## Architecture
-
-The repository is in its initial state with minimal structure. Architecture documentation will be expanded as the codebase grows.
+No specific build, lint, or test commands configured yet. Standard git operations are the primary workflow.
